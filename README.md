@@ -29,7 +29,7 @@ After the program runs, navigate to the folder in which `summarize_lists.py` res
 
 ### Possible Modifications and Extensions
 This webscraper could be adapted to any website where the article is a long-form list with links. Modify line 43 of `summarize_lists.py` to correspond with whichever CSS class name you are interested in.
-
+ 
 ```
 companies = [[h3.find("a").contents[0]] for h3 in html.select("h3[class*='s-h3']")]
 ```
