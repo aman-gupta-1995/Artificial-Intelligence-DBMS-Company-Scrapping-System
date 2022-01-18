@@ -1,6 +1,6 @@
 __author__ = 'linda-ge'
 
-import csv
+import csv 
 from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
