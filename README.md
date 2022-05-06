@@ -8,7 +8,7 @@ pip3 install requests
 pip3 install BeautifulSoup 
 ``` 
  
-### Running the program
+### Running the program 
 Download the folder and type the below into your terminal:
 
 ```
