@@ -7,7 +7,7 @@ This program scrapes [the AngelList Job Collections directories](https://angel.c
 pip3 install requests 
 pip3 install BeautifulSoup 
 ``` 
-
+ 
 ### Running the program
 Download the folder and type the below into your terminal:
 
