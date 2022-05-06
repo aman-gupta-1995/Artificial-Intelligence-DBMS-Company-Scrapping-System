@@ -23,7 +23,7 @@ Enter requested URL for scrape:
 
 Any link from the [Job Collections landing page](https://angel.co/job-collections/) will work.
 
-After the program runs, navigate to the folder in which `summarize_lists.py` resides. You will see a new file named `[portion of the URL after the last backslash].CSV`, containing the list data in text form.
+After the program runs, navigate to the folder in which `summarize_lists.py` resides. You will see a new file named `[portion of the URL after the last backslash].CSV`, containing the list data in text form. 
 
 ![Demo](/Demo.png)
 
