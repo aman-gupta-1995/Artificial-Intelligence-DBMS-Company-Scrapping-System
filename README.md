@@ -4,7 +4,7 @@ This program scrapes [the AngelList Job Collections directories](https://angel.c
 
 ### Dependencies 
 ``` 
-pip3 install requests
+pip3 install requests 
 pip3 install BeautifulSoup 
 ``` 
 
