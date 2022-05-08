@@ -25,7 +25,7 @@ Any link from the [Job Collections landing page](https://angel.co/job-collection
 
 After the program runs, navigate to the folder in which `summarize_lists.py` resides. You will see a new file named `[portion of the URL after the last backslash].CSV`, containing the list data in text form. 
 
-![Demo](/Demo.png)
+![Demo](/Demo.png) 
  
 ### Possible Modifications and Extensions
 This webscraper could be adapted to any website where the article is a long-form list with links. Modify line 43 of `summarize_lists.py` to correspond with whichever CSS class name you are interested in.
