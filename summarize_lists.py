@@ -6,7 +6,7 @@ from requests.exceptions import RequestException
 from contextlib import closing               
 from bs4 import BeautifulSoup            
  
-def simple_get(url): 
+def simple_get(url):  
     """  
     Attempts to retrieve the content at 'url' by making a HTTP GET request.
     If the response contains HTML/XML, return the text content.
